@@ -10,7 +10,7 @@ This repository contains:
 
 ---
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 The goal of this project is to classify handwritten digits (0–9) using Deep Learning techniques.
 
@@ -18,20 +18,20 @@ The project started as a Kaggle competition solution and was later converted int
 
 ---
 
-# 🧠 Models Used
+## 🧠 Models Used
 
-## 📌 Submission 1 — ANN
+### 📌 Submission 1 — ANN
 - Fully connected neural network
 - Baseline deep learning model
 
-## 📌 Submission 2 — CNN
+### 📌 Submission 2 — CNN
 - Convolutional Neural Network
 - Better feature extraction
 - Improved accuracy compared to ANN
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 digit-recognizer/
@@ -62,7 +62,7 @@ digit-recognizer/
 
 ---
 
-# 🌐 AI Web Application Features
+## 🌐 AI Web Application Features
 
 - 🎨 Draw digits on canvas
 - 🧠 Real-time AI prediction
@@ -72,9 +72,9 @@ digit-recognizer/
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Machine Learning
+### Machine Learning
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -82,7 +82,7 @@ digit-recognizer/
 - Matplotlib
 - Seaborn
 
-## Web Development
+### Web Development
 - React.js
 - Flask
 - Axios
@@ -90,9 +90,9 @@ digit-recognizer/
 
 ---
 
-# 🚀 Run Locally
+## 🚀 Run Locally
 
-## Backend
+### Backend
 
 ```bash
 cd web-app/backend
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Frontend
+### Frontend
 
 ```bash
 cd web-app/frontend
@@ -114,14 +114,14 @@ npm start
 
 ---
 
-# 🏆 Kaggle Competition
+## 🏆 Kaggle Competition
 
 Digit Recognizer:
 https://www.kaggle.com/competitions/digit-recognizer
 
 ---
 
-# 📌 Key Learnings
+## 📌 Key Learnings
 
 - ANN vs CNN
 - Image preprocessing
@@ -132,15 +132,18 @@ https://www.kaggle.com/competitions/digit-recognizer
 
 ---
 
-# 📌 Author
+## 📌 Author
 
 B.Tech CSE (AI & Data Analytics)'28 student exploring:
 
 Machine Learning
+
 Deep Learning
+
 Computer Vision
+
 Full-Stack AI Applications
 
-# ⭐ If you liked this project
+### ⭐ If you liked this project
 
 Give this repository a ⭐ on GitHub!
