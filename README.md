@@ -90,14 +90,6 @@ digit-recognizer/
 
 ---
 
-# 📸 Screenshots
-
-![App UI](images/screenshot1.png)
-
-![Prediction](images/screenshot2.png)
-
----
-
 # 🚀 Run Locally
 
 ## Backend
